@@ -11,7 +11,7 @@
 #ifndef __SENSOR_GYRO_GY271_H__
 #define __SENSOR_GYRO_GY271_H__
 
-#include "sensor.h"
+#include "rtdevice.h"
 #include "gy271.h"
 
 #define GY271_I2C_ADDR 0x1E
